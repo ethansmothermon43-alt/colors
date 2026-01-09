@@ -1,26 +1,24 @@
-{
-  "christian_lempa_keyboard_colors_exact_match": {
-    "cyan": {
-      "hex": "#00b8e6",
-      "rgb": "rgb(0, 184, 230)",
-      "description": "Dimmed cyan - Left side keys"
-    },
-    "blue": {
-      "hex": "#0066cc",
-      "rgb": "rgb(0, 102, 204)",
-      "description": "Dimmed blue - Middle-left keys"
-    },
-    "purple": {
-      "hex": "#6600cc",
-      "rgb": "rgb(102, 0, 204)",
-      "description": "Dimmed blue-purple - Center keys"
-    },
-    "magenta": {
-      "hex": "#8b0050",
-      "rgb": "rgb(139, 0, 80)",
-      "description": "Dark dimmed magenta-burgundy - Right side keys"
-    }
-  },
-  "gradient_pattern": "Cyan → Blue → Purple → Dark Magenta (left to right)",
-  "note": "Colors matched exactly from Christian Lempa's keyboard RGB lighting in the provided image"
-}
+Extracted Keyboard LED Colors (Christian LempA setup)
+1. Deep Blue
+
+RGB: (35, 105, 199)
+
+HEX: #2369C7
+
+2. Magenta / Pink
+
+RGB: (221, 98, 238)
+
+HEX: #DD62EE
+
+3. Cyan / Aqua
+
+RGB: (85, 218, 242)
+
+HEX: #55DAF2
+
+4. Purple / Violet
+
+RGB: (180, 50, 148)
+
+HEX: #B43294
